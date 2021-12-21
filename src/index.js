@@ -10,4 +10,4 @@ import Demo10_1 from './demo10_1';
 import Demo11 from './demo11';
 import Demo12 from './demo12';
 
-ReactDOM.render(<Demo12 />, document.getElementById('root'));
+ReactDOM.render(<Demo11 />, document.getElementById('root'));
